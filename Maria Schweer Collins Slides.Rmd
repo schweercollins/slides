@@ -1,0 +1,27 @@
+---
+title: "Slides for R Class"
+author: "Maria Schweer-Collins"
+date: "November 19, 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+## Thanksgiving Menu
+
+- Mashed Potatoes
+- Turkey
+- Gravy
+- Roasted Brussel Sprouts
+
+## An Interesting Article 
+
+http://time.com/5457183/thanksgiving-native-american-holiday/
+
+
+
+
